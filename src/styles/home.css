@@ -1,0 +1,57 @@
+.hero__subtitle img{
+    width: 2.3rem;
+    height: 2.3rem;
+
+}
+
+.hero__content h1{
+    font-size: 3.2rem;
+    font-weight: 600;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    color: var(--heading-color);
+}
+
+.hero__content h1 .highlight{
+    color: var(--secondary-color);
+}
+.hero__content p{
+    font-size: 1.1rem;
+    color: var(--text-color);
+    line-height: 2rem;  
+}
+.hero__img-box img ,.hero__img-box video{
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    border: 1px solid var(--secondary-color);
+    object-fit: cover;
+    box-shadow: 0 8px 16px rgba(15, 40, 197, 0.3);
+}
+
+.hero__content{
+    padding-top: 3.5rem;
+    
+}
+.hero__img-box{
+    padding-top: 2rem;
+}
+section {
+    position: relative; 
+    background-color: rgba(0, 0, 255, 0.3); 
+  }
+  .services__subtitle{
+    font-size: 2.2rem;
+    font-weight: 500;
+    color: #5064e8;
+    font-family: var(--subtitle-font-name);
+  }
+  .services__title{
+    font-size: 2.5rem;
+    font-weight: 500;
+  }
+
+  .featured__tour-title{
+    font-size: 2.3rem;
+    font-weight: 500;
+  }

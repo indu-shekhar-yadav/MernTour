@@ -1,0 +1,53 @@
+.footer{
+    padding: 50px;
+    padding-bottom: 30px;
+    position: relative;
+    background-color: rgba(17, 32, 236, 0.108)
+
+}
+.footer .logo {
+    margin-left: 30px; /* Adjust the margin-left as needed */
+  }
+.footer .logo img{
+    width: 45%;
+    margin-bottom: 0.2rem;
+    margin-right: 80px;
+    
+}
+.footer .logo p{
+    color: var(--text-color);
+    font-size: 2rem;
+    font-weight: 500;
+    color: var(--secondary-color);
+    margin-bottom: 0.2rem;
+
+}
+
+.social__links span a{
+    text-decoration: none;
+    color: var(--primary-color);
+    font-size: 2rem;
+    margin-top: 1rem;
+    
+    
+}
+.footer__link-title{
+    color: var(--heading-color);
+    margin-bottom: 1rem;
+    font-size: 1.5rem; /* Increase font size */
+    font-weight: bold;
+}
+
+  .footer__quick-links li {
+    margin-bottom: 0.5rem; /* Adjust spacing between links */
+  }
+.footer__quick-links li a{
+    text-decoration: none;
+    color:var(--text-color);
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+.footer__quick-links h6 span i{
+    color: rgba(0, 21, 255, 0.842);
+    font-size: 1.1rem;
+}

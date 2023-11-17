@@ -1,0 +1,21 @@
+
+/* styles.css */
+
+.hotel-image {
+     /* Set the maximum width as per your requirement */
+    width: 100%;
+    height: 400px;
+    margin-top: -49px;
+  }
+  .booking{
+    width: 100%;
+    max-width: 450px;
+    margin: auto;
+    text-align: center;
+    height: 400px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+  }
+  .mt-4{
+    margin-top: 20px;
+  }
